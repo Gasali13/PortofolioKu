@@ -79,7 +79,7 @@ body {
     color: white;
 }
 
-/* About */
+/* About Section */
 #about {
     font-size: 2rem;
     text-align: center;
@@ -153,6 +153,7 @@ body {
 
 .portfolio-gallery img {
     width: 100%;
+    border-radius: 20px;
 }
 
 .portfolio-gallery p{
